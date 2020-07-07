@@ -1,0 +1,5 @@
+spring:
+  logging:
+#    config: logback.xml
+    config: classpath:log4j2.xml
+
